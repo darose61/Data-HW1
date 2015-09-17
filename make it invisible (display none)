@@ -1,0 +1,9 @@
+make it invisible (display none)
+when click show the hidden object (set display to block)
+
+getbootstrap.com --> javascript --> modal
+
+you might not need jquery . com
+
+Variable to target the divs with a specific span
+log that to make sure you are doing it right

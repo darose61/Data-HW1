@@ -1,0 +1,108 @@
+{
+	"dogs": [
+		{
+			"born": "1981",
+			"location": "Maremma Region, Italy",
+			"breed": "Maremma Sheepdog",
+			"name": "Larry",
+			"weight": "125 lbs",
+			"died": "1994"
+		},
+
+		{
+			"born": "1995",
+			"location": "Maremma Region, Italy",
+			"breed": "Maremma Sheepdog",
+			"name": "Cesare",
+			"weight": "125 lbs",
+			"died": "2006"
+		},
+
+		{
+			"born": "1996",
+			"location": "Paramus, NJ",
+			"breed": "St Bernard",
+			"name": "Livia",
+			"weight": "120 lbs",
+			"died": "2004"
+		},
+
+		{
+			"born": "2006",
+			"location": "Upstate NY",
+			"breed": "Newfoundland",
+			"name": "Cleopatra",
+			"weight": "165 lbs",
+			"died": "2014"
+		},
+
+		{
+			"born": "2007",
+			"location": "Upstate NY",
+			"breed": "Newfoundland",
+			"name": "Napoleon",
+			"weight": "155 lbs",
+			"died": "n/a"
+		}
+	],
+	
+	
+
+	"cats": [
+		{
+			"born": "2007",
+			"adopted": "2009",
+			"location": "Pittsburgh, PA",
+			"breed": "Tortoise",
+			"name": "Sepia",
+			"weight": "9 lbs",
+			"died": "n/a",
+			"curent owner": "My Parents"
+		},
+
+		{
+			"born": "2013",
+			"adopted": "2013",
+			"location": "Hudson Valley, NY",
+			"breed": "Bengal",
+			"name": "Isys",
+			"weight": "7 lbs",
+			"died": "n/a",
+			"curent owner": "My Parents"
+		},
+		
+		{
+			"born": "2012",
+			"adopted": "2014",
+			"location": "Brooklyn, NY",
+			"breed": "Calico",
+			"name": "Guenivere",
+			"weight": "12 lbs",
+			"died": "n/a",
+			"curent owner": "My Brother"
+		},
+		
+		{
+			"born": "2015",
+			"adopted": "2015",
+			"location": "Brooklyn, NY",
+			"breed": "Domestic House Cat",
+			"name": "Maddie",
+			"weight": "9 lbs",
+			"died": "n/a",
+			"curent owner": "Me!"
+		},
+		
+		{
+			"born": "2015",
+			"adopted": "2015",
+			"location": "Brooklyn, NY",
+			"breed": "Blue Russian",
+			"name": "Cilla",
+			"weight": "9 lbs",
+			"died": "n/a",
+			"curent owner": "Me!"
+		}
+
+	]
+}
